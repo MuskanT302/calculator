@@ -1,0 +1,41 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 20px;
+}
+
+.row {
+    margin: 8px;
+    width: 23vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.row input {
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.box{
+    width: 304px;
+    height: 480px;
+  
+    border: 1px solid black;
+    padding: 10px;
+    margin: 23px 441px;
+    background-color: rgb(64, 46, 46);
+
+}
